@@ -1,0 +1,15 @@
+table {
+    margin: 20px;
+    color: chocolate;
+}
+
+#scrum {
+    margin: 50px;
+    width: 120px;
+}
+
+[colspan="3"] {
+    font-weight: bold;
+    color: darkblue;
+}
+
